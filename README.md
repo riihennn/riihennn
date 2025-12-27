@@ -92,7 +92,7 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rihenkrishna/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihenkrishna/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riihennn)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihenww@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riihennn__/)
@@ -131,6 +131,22 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
   <a href="https://github.com/mahammadirshad07">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
   </a>
+
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aleena-mm&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aleena-mm&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleena-mm&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
