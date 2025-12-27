@@ -119,23 +119,23 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 <h2 align="center">🔥 My GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/mahammadirshad07">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahammadirshad07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/riihennn">
+    <img src="https://github-readme-stats.vercel.app/api?username=riihennn&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/mahammadirshad07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadirshad07&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/riihennn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riihennn&theme=tokyonight" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahammadirshad07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadirshad07&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://github.com/riihennn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihennn&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
   </a>
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aleena-mm&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aleena-mm&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleena-mm&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=riihennn&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=riihennn&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riihennn&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
@@ -149,7 +149,7 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadirshad07&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riihennn&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
