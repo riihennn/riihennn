@@ -117,21 +117,6 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 ---
 
-<h2 align="center">🔥 My GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/riihennn">
-    <img src="https://github-readme-stats.vercel.app/api?username=riihennn&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/riihennn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riihennn&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riihennn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riihennn&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-  </a>
-
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riihennn&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=riihennn&theme=react&hide_border=false)<br/>
