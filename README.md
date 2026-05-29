@@ -124,10 +124,6 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 
 <br>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 <br>
 
 ### ✍️ Random Dev Quote
