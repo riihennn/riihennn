@@ -1,4 +1,4 @@
-# Hi there, I'm Rihen Krishna 👋
+# Hi there, I'm Rihen Krishna 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
