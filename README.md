@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **tech enthusiast** with a never-ending love for programming and a burning passion for **Web development**. I love talking to new people and discussing new ideas. I have recently started with Web Development and loving it since.
 
